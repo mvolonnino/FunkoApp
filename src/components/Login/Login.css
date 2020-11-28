@@ -126,6 +126,7 @@ form.sign-up-form {
 .social-media {
   display: flex;
   justify-content: center;
+  padding-bottom: 1rem;
 }
 
 .social-icon {
